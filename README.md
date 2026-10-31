@@ -34,6 +34,7 @@ git submodule update --remote --merge
 - [`hpc/CLIFTON_SETUP.md`](hpc/CLIFTON_SETUP.md): install `clifton`, authenticate (certificates last 12 hours) and write the SSH config.
 - [`hpc/ISAMBARD_NOTES.md`](hpc/ISAMBARD_NOTES.md): project storage layout, the container, single-GPU job rules and known problems.
 - [`hpc/templates/single_gpu.sbatch`](hpc/templates/single_gpu.sbatch): the job template every project starts from (one GH200, Apptainer `--nv`).
+- [`AGENTS.md`](AGENTS.md): rules for coding agents.
 - [`docs/CONTROL_MACHINE.md`](docs/CONTROL_MACHINE.md): the CPU-only Linux box that drives everything over SSH, and how to rebuild it somewhere else.
 
 ## Rules every project follows

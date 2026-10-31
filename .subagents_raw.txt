@@ -1,0 +1,157 @@
+Showing 67
+No more results (last page).
+
+- 7f78f28ebba14aacb3d73bdd281039bd | Create sepiq folder with CSVs | status=suspended (inactivity) | created=1793338024 | updated=1793338375 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=data_and_automation | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- d117aa437b7e4db686650a2778ce2d6e | Install Isaac Sim on Isambard (aarch64 GH200) | status=suspended (inactivity) | created=1793062664 | updated=1793100184 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=ci_cd_and_devops | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- a8ee371bb7584271a61fda24be161a63 | Red-team natural-counterfactual flagship and kill list | status=suspended (inactivity) | created=1793055210 | updated=1793057737 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 0ea7c3f310534f7790ebe28721044845 | Audit shipped HF world-model artifacts and checklist | status=suspended (inactivity) | created=1793055209 | updated=1793056379 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 38816a8f9b054e0e968c2f6be612dec5 | Rank documented world-action-model projects to replicate | status=suspended (inactivity) | created=1793055209 | updated=1793057776 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 412f88cc0ddd46b78af5422a825701cc | Plan: AIRR/Isambard compute portfolio (world-action models first) | status=suspended (inactivity) | created=1792905114 | updated=1792907647 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 740ffd7d61954b22a2f203ddade9a0ce | Design: FathomSeek data route, model, kill test, Isambard plan | status=suspended (inactivity) | created=1792822996 | updated=1792825829 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- a19f7674df504e6b82079995d5f7b6c4 | Design: AeroLoc data route, model, kill test, Isambard plan | status=suspended (inactivity) | created=1792822995 | updated=1792826067 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 19a8e20481034007867b461eb68eda7b | Strengths fit: surgical video / auditing / 3D-SfM shapes | status=suspended (inactivity) | created=1792820120 | updated=1792822469 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 199a2226a0af4c95976214b24dc45e32 | Venues + accepted patterns for tool/benchmark/compute papers | status=suspended (inactivity) | created=1792820120 | updated=1792822527 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 2cd2dea56f3b4297906877a168e94288 | Ideas: AstroLoc-shaped community tool + paper + AIRR compute | status=suspended (inactivity) | created=1792820119 | updated=1792822646 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 16b258bbbf1e4f52ad965126f93090b8 | Ideas: UK task-first EO/science demo | status=suspended (inactivity) | created=1792818556 | updated=1792821159 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 8fa1fbd62735493292013f6016379c3a | Ideas: GH200 kernels/systems to applications | status=suspended (inactivity) | created=1792818556 | updated=1792820939 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 85bea637862b4e2f9fe50b8af69743ec | Ideas: world/action models + architecture | status=suspended (inactivity) | created=1792818554 | updated=1792821024 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 5bf2a4964fec4f4fa2930b2293daa441 | HF access + data/model inventory | status=suspended (inactivity) | created=1792818554 | updated=1792821354 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 4947daf1e9744f609ba19b283b73edb4 | Strengths map: Ryukijano public footprint | status=suspended (inactivity) | created=1792818553 | updated=1792820994 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 71d16145cb014ea2b9df584af553c1f5 | Scan: X + kernels/architecture/new directions | status=suspended (inactivity) | created=1792803081 | updated=1792806146 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- d4e84697b7c44a7fa6d9c22ca6b6f6e5 | Red-team: Agentic-SfM routing | status=suspended (inactivity) | created=1792803080 | updated=1792806170 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=code_review | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 6768c4210a0a40f0bd88714a6a4b9005 | Red-team: world-action-model track | status=suspended (inactivity) | created=1792803080 | updated=1792819877 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=documentation_and_content | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- c6e7f7e82a6f495697048892667eb7b1 | Red-team: EO/coastal/Sci-JEPA-WM bets | status=suspended (inactivity) | created=1792803079 | updated=1792806189 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=code_review | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 7f1616d1bec6469892d2ea03d8074715 | Track B specialist routing scientific audit | status=suspended (inactivity) | created=1792293496 | updated=1792295465 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=code_review | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 4baf6b337ec24fa68e6509ae5a42fdc1 | Track A WAM scientific validity audit | status=suspended (inactivity) | created=1792293495 | updated=1792295435 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 6d78e9136bb14453a01f176906942c92 | PR #3 merge-safety review | status=suspended (inactivity) | created=1792275221 | updated=1792277071 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=code_review | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- bf464e74defd40dab64c9215036dc941 | Frontier training techniques on Hopper research | status=suspended (inactivity) | created=1792271054 | updated=1792271489 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 00be2b1e68d240e78c38ea09c328ee37 | Slingshot-11/GH200 interconnect stack research | status=suspended (inactivity) | created=1792271054 | updated=1792271580 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=documentation_and_content | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 3aea4386a4dc4b2d83f31a1f8016b197 | Hopper distributed training frameworks research | status=suspended (inactivity) | created=1792271053 | updated=1792271460 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 9b31434a94d14073ba7c0309881c779f | Hopper attention/FP8 kernel stack research | status=suspended (inactivity) | created=1792271053 | updated=1792271457 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 7b5dd05551714b5cb1fb4636b0e238c4 | GH200 frontier training stack research | status=suspended (inactivity) | created=1792269143 | updated=1792269570 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 4eb27230836341838fe5e7c02063601c | Isambard human-run setup and safety review | status=suspended (inactivity) | created=1792254195 | updated=1792256179 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=documentation_and_content | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 3ac5fdfe5ab240048046f5f12d551478 | Coastal imagery acquisition: exact scenes and licence audit | status=suspended (inactivity) | created=1792254194 | updated=1792256342 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 5e2eebcf03b04738bef364e5500ffcd1 | Coastal next experiment: independent scientific audit | status=suspended (inactivity) | created=1792254194 | updated=1792256362 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- f57646f97b0349629f1d3f58e4528373 | Coastal model: releasable corpus and evaluation audit | status=suspended (inactivity) | created=1791929853 | updated=1791932363 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- da4f3d076101499ba5523349ea526544 | Coastal model: pretraining and post-training design | status=suspended (inactivity) | created=1791929852 | updated=1791932147 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- ddf88c8b70924aed9a360ba2a318d38a | Task-first training plan: event_search | status=suspended (inactivity) | created=1791914711 | updated=1791917030 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=normal | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 1568d45c7bae431fbf1c3421923c55da | Task-first training plan: coastal_change | status=suspended (inactivity) | created=1791914711 | updated=1791916937 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=normal | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 1ea0712ce8194693b47828db76780da2 | Task-first training plan: forecast_observe | status=suspended (inactivity) | created=1791914710 | updated=1791917214 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=normal | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- de8c3dae1b9f4cbe82bdebcbf025aa43 | Workflow higher-impact-eo-science: scientific_sceptic | status=suspended (inactivity) | created=1791901766 | updated=1791903860 | tags=workflow | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 9bb13a0d695a4d838482fc67d1e8a2b3 | Workflow higher-impact-eo-science: forecast_observe | status=suspended (inactivity) | created=1791900911 | updated=1791903500 | tags=workflow | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 0471a054d7814cddafba13371ad316dc | Workflow higher-impact-eo-science: disaster_transfer | status=suspended (inactivity) | created=1791900909 | updated=1791903251 | tags=workflow | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- dd52ad4f87aa4d20a488e1de5c458b1d | Workflow higher-impact-eo-science: event_search | status=suspended (inactivity) | created=1791900909 | updated=1791903410 | tags=workflow | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- f286279d5f1043d8b4b8a9b34134cf1c | Workflow higher-impact-eo-science: coastal_change | status=suspended (inactivity) | created=1791900909 | updated=1791903559 | tags=workflow | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 3c2b6bc5338649368066fba9d2084282 | Workflow higher-impact-eo-science: restoration_effect | status=suspended (inactivity) | created=1791900909 | updated=1791903258 | tags=workflow | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- d9a0d08da3ba4d00a8bf3573de73eb00 | EO demo: novelty and adoption red team | status=suspended (inactivity) | created=1791899364 | updated=1791901827 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 4669a5c19d4849f1aa35103cce0bc456 | EO demo: releasable data and model feasibility | status=suspended (inactivity) | created=1791899363 | updated=1791901719 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- a0d67b0691b34a9088f8060a042f83fc | EO demo: users, workflow and product bets | status=suspended (inactivity) | created=1791899363 | updated=1791901846 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- acecd46715bb4459a8cf5af953e59abb | TESSERA pilot provenance audit | status=suspended (inactivity) | created=1791898806 | updated=1791899218 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=lite | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 414ba72de359488eb733e10afda88c0d | EO method fit and novelty red team | status=suspended (inactivity) | created=1791896143 | updated=1791898566 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- c367b5fe34594f1c981b2d0225ecb12e | EO costly workflows and existing datasets | status=suspended (inactivity) | created=1791896142 | updated=1791898469 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- dfa349fbb6104de18298da7283eb7d9e | GH200 CUDA and distributed runtime review | status=suspended (inactivity) | created=1791775492 | updated=1791777592 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 3888f284ba3f4c27af3b8cd3c951431f | EO local manifest data engineering | status=suspended (inactivity) | created=1791775490 | updated=1791777885 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=feature_development | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- e47bb097c2e04a28918006b4bb82ac6f | EO JEPA mathematical training audit | status=suspended (inactivity) | created=1791775489 | updated=1791777542 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 78a89e0f7b514b5a99d38c3b4533e9c1 | Clean-JEPA P1 plan: model, views, checkpoints, CLI | status=suspended (user_request) | created=1791684349 | updated=1791685354 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 3429c84d97044f33b844504693571625 | Clean-JEPA P1 plan: losses and DDP | status=suspended (user_request) | created=1791684348 | updated=1791685360 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- f75058289aeb44088425e86fe3179a31 | Clean-JEPA EO: training recipe check | status=suspended (inactivity) | created=1791656964 | updated=1791659571 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- c6226de9021347e6905515bb13ff6d5c | Clean-JEPA EO: loss maths and gradients | status=suspended (inactivity) | created=1791656963 | updated=1791659654 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=ultra | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 30489bc4bed744b789f5d33689305556 | Clean-JEPA EO: evaluation, statistics, pricing | status=suspended (inactivity) | created=1791609984 | updated=1791612530 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=documentation_and_content | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- a0799fd2e5404f9fb1b385de00f1dd6a | Clean-JEPA EO: data corpus and I/O pipeline | status=suspended (inactivity) | created=1791609983 | updated=1791612650 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 4285a6de55934916a6ce4336ec02cf89 | Clean-JEPA EO: objective formulation | status=suspended (inactivity) | created=1791609983 | updated=1791612593 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=documentation_and_content | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 7a1c0f0313824d60b771c879fd0b50a8 | Clean-JEPA red team: novelty and feasibility audit | status=suspended (inactivity) | created=1791591551 | updated=1791594173 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- d8b9bf0f28be42d58d1a8afb787b14dd | Clean-JEPA disruptor: applied, field-changing ideas | status=suspended (inactivity) | created=1791591551 | updated=1791593661 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- af72f91e2d5344e0a00158e5a9f42efd | Clean-JEPA sharpener: methods and experiments | status=suspended (inactivity) | created=1791591550 | updated=1791593895 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- bb466435067d4c0aab18733f64b27a66 | Deep-think verifier: check claims and numbers | status=suspended (inactivity) | created=1791366816 | updated=1791659482 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 1ca0ad416d3245209837aa6b400089f2 | Deep-think pessimist: red-team the scaling study | status=suspended (inactivity) | created=1791366816 | updated=1791662478 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=ci_cd_and_devops | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 6e57702c97df4706a803e51f34ec9542 | Deep-think explorer: well-posed scaling study | status=suspended (inactivity) | created=1791366815 | updated=1791369382 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 81ef77b73b5a4ebfa7fb222c53b063a2 | Scaling-laws verifier | status=suspended (inactivity) | created=1791361292 | updated=1791364301 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- eb17d877429e4cef97359f6cdcd7575b | Scaling-laws pessimist | status=suspended (inactivity) | created=1791361292 | updated=1791364279 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+- 298b5fa35ad749b79ff8101e9687ba2a | Scaling-laws explorer | status=suspended (inactivity) | created=1791361291 | updated=1791363899 | user_id=user-19a05d9a59fd448e8a2f3e49f6d7253b | devin_mode=fusion | origin=api | category=research_and_exploration | subcategory=Other | parent_session_id=8371507a5420405593eda30df300d243 | acus_consumed=0.0
+=====
+Session 8371507a5420405593eda30df300d243:
+  session_id: 8371507a5420405593eda30df300d243
+  title: Diagnose Stuck Terminal
+  status: running
+  status_detail: working
+  created_at: 2026-10-06 01:34:58 UTC
+  updated_at: 2026-10-31 22:01:57 UTC
+  user_id: user-19a05d9a59fd448e8a2f3e49f6d7253b
+  origin: webapp
+  category: research_and_exploration
+  subcategory: Other
+  url: https://app.devin.ai/sessions/8371507a5420405593eda30df300d243
+  acus_consumed: 0.0
+  tags: workflow-orchestrator
+  child_session_ids (67):
+    - 199a2226a0af4c95976214b24dc45e32
+    - 0ea7c3f310534f7790ebe28721044845
+    - 2cd2dea56f3b4297906877a168e94288
+    - 6e57702c97df4706a803e51f34ec9542
+    - 1ca0ad416d3245209837aa6b400089f2
+    - e47bb097c2e04a28918006b4bb82ac6f
+    - dfa349fbb6104de18298da7283eb7d9e
+    - 298b5fa35ad749b79ff8101e9687ba2a
+    - eb17d877429e4cef97359f6cdcd7575b
+    - 81ef77b73b5a4ebfa7fb222c53b063a2
+    - 3888f284ba3f4c27af3b8cd3c951431f
+    - 78a89e0f7b514b5a99d38c3b4533e9c1
+    - 3429c84d97044f33b844504693571625
+    - 30489bc4bed744b789f5d33689305556
+    - 4285a6de55934916a6ce4336ec02cf89
+    - a0799fd2e5404f9fb1b385de00f1dd6a
+    - 1568d45c7bae431fbf1c3421923c55da
+    - ddf88c8b70924aed9a360ba2a318d38a
+    - 1ea0712ce8194693b47828db76780da2
+    - 4669a5c19d4849f1aa35103cce0bc456
+    - a0d67b0691b34a9088f8060a042f83fc
+    - d9a0d08da3ba4d00a8bf3573de73eb00
+    - d8b9bf0f28be42d58d1a8afb787b14dd
+    - af72f91e2d5344e0a00158e5a9f42efd
+    - 7a1c0f0313824d60b771c879fd0b50a8
+    - c6226de9021347e6905515bb13ff6d5c
+    - bb466435067d4c0aab18733f64b27a66
+    - f75058289aeb44088425e86fe3179a31
+    - 3c2b6bc5338649368066fba9d2084282
+    - 0471a054d7814cddafba13371ad316dc
+    - c367b5fe34594f1c981b2d0225ecb12e
+    - 414ba72de359488eb733e10afda88c0d
+    - dd52ad4f87aa4d20a488e1de5c458b1d
+    - 9bb13a0d695a4d838482fc67d1e8a2b3
+    - f286279d5f1043d8b4b8a9b34134cf1c
+    - de8c3dae1b9f4cbe82bdebcbf025aa43
+    - acecd46715bb4459a8cf5af953e59abb
+    - da4f3d076101499ba5523349ea526544
+    - f57646f97b0349629f1d3f58e4528373
+    - 4baf6b337ec24fa68e6509ae5a42fdc1
+    - 7b5dd05551714b5cb1fb4636b0e238c4
+    - 7f1616d1bec6469892d2ea03d8074715
+    - bf464e74defd40dab64c9215036dc941
+    - 3aea4386a4dc4b2d83f31a1f8016b197
+    - 9b31434a94d14073ba7c0309881c779f
+    - 00be2b1e68d240e78c38ea09c328ee37
+    - 740ffd7d61954b22a2f203ddade9a0ce
+    - 3ac5fdfe5ab240048046f5f12d551478
+    - a19f7674df504e6b82079995d5f7b6c4
+    - 6d78e9136bb14453a01f176906942c92
+    - 5e2eebcf03b04738bef364e5500ffcd1
+    - 4eb27230836341838fe5e7c02063601c
+    - a8ee371bb7584271a61fda24be161a63
+    - 38816a8f9b054e0e968c2f6be612dec5
+    - 6768c4210a0a40f0bd88714a6a4b9005
+    - d117aa437b7e4db686650a2778ce2d6e
+    - d4e84697b7c44a7fa6d9c22ca6b6f6e5
+    - 4947daf1e9744f609ba19b283b73edb4
+    - 5bf2a4964fec4f4fa2930b2293daa441
+    - 8fa1fbd62735493292013f6016379c3a
+    - 85bea637862b4e2f9fe50b8af69743ec
+    - 16b258bbbf1e4f52ad965126f93090b8
+    - 71d16145cb014ea2b9df584af553c1f5
+    - 19a8e20481034007867b461eb68eda7b
+    - c6e7f7e82a6f495697048892667eb7b1
+    - 412f88cc0ddd46b78af5422a825701cc
+    - 7f78f28ebba14aacb3d73bdd281039bd
+  summary (generated 2026-10-31 19:49:47 UTC):
+    Summary generated: 2026-10-31 19:49 UTC
+    
+    Work covered OpenChange-UK (EO/JEPA) and a RoboJEPA/WAM action-rankability project. Coastal tests stopped for insufficient matched surveys; Gate-1 `7560286` completed a 4×GH200, four-arm 50-step screen, not a benchmark. PR #3 merged; #1/#2 have no recorded merge. RoboJEPA action-ranking remained weak despite better prediction loss; DROID conversion and public HF dataset/Space/blog were produced. Pixel-native MPC + JEPA/diffusion WAM remains unproven. Latest job `7884488` failed its scale gate (`sym10=.33`, n=3); Grok’s duplicate instruction was unsent.
