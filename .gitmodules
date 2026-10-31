@@ -1,0 +1,15 @@
+[submodule "projects/world-model-rankability"]
+	path = projects/world-model-rankability
+	url = https://github.com/Ryukijano/world-model-rankability.git
+[submodule "projects/openchange-uk"]
+	path = projects/openchange-uk
+	url = https://github.com/Ryukijano/openchange-uk.git
+[submodule "projects/agentic-sfm"]
+	path = projects/agentic-sfm
+	url = https://github.com/Ryukijano/agentic-sfm.git
+[submodule "upstream/le-wm"]
+	path = upstream/le-wm
+	url = https://github.com/Ryukijano/le-wm.git
+[submodule "skills/agent-skills"]
+	path = skills/agent-skills
+	url = https://github.com/Ryukijano/agent-skills.git
